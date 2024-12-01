@@ -1,0 +1,9 @@
+result
+treefmt.toml
+target
+.direnv
+
+
+# Added by cargo
+
+/target
